@@ -4,7 +4,7 @@ Last updated: April 6, 2026
 
 Introduction
 
-Welcome to Ellamai ("we", "our", "us"). This Privacy Policy explains how we collect, use, disclose, and protect information when you visit our website or use our services. By accessing or using our website, you agree to the collection and use of information in accordance with this policy.
+Welcome to Manoj Kumar P Blog ("we", "our", "us"). This Privacy Policy explains how we collect, use, disclose, and protect information when you visit our website or use our services. By accessing or using our website, you agree to the collection and use of information in accordance with this policy.
 
 Information We Collect
 

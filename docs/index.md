@@ -1,6 +1,6 @@
-# Ellamai
+# Manoj Kumar P Blog
 
-Welcome to the Ellamai documentation site.
+Welcome to the Manoj Kumar P Blog documentation site.
 
 - [Privacy Policy](./privacy-policy.md)
 
