@@ -1,7 +1,12 @@
 # Manoj Kumar P Blog
 
-Welcome to the Manoj Kumar P Blog documentation site.
+Welcome to Manoj Kumar P Blog.
+
+## Blog Posts
+
+- [Can You Generate Value from Executing Business Intellectual Property?](./posts/executing-business-ip.md) *(August 20, 2026)*
+
+## Information
 
 - [Privacy Policy](./privacy-policy.md)
 
-This site can be published with GitHub Pages from the `docs/` folder on the `main` branch.
